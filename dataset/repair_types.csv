@@ -1,51 +1,51 @@
-"repair_id,repair_name,repair_value,time_in_minutes"
-"1cd3798e-a096-4e11-a323-595f34938785,Transformer Oil Leak Repair,325,139"
-"f3f2c2e7-3179-4a35-8259-20681e22103a,Circuit Breaker Maintenance and Repair,197,184"
-"4a99ff3d-48bc-4974-9ed2-cb0ba51ecd4d,Power Line Insulation Restoration,306,219"
-"d171d4ec-f08f-4dd7-bc81-a02584ef95e4,Distribution Substation Equipment Overhaul,182,85"
-"ef266ca2-4991-4942-b7b3-61827a0f12fb,Transmission Tower Structural Repair,247,23"
-"601b1e49-2320-44ce-bd01-5e0af276ddae,Electrical Conduit Replacement and Repair,276,96"
-"58fc98ea-1582-4f77-bef1-a2bd456af621,Ceramic Insulator Repair and Replacement,498,308"
-"676615ef-5117-4b59-ad1a-90ce862e6189,Underground Power Cable Fault Detection and Repair,115,120"
-"3779c9b9-51e0-4374-84eb-cb17ed242aea,Switchgear Component Repair and Replacement,360,42"
-"4910bb06-f5db-408e-8fb3-022d8b6280ef,Capacitor Bank Balancing and Maintenance,496,303"
-"83c9d531-b5c9-472a-be00-255ec55eccdd,Electric Meter Calibration and Repair,500,155"
-"5aa4f537-c928-4797-a614-f9b1a2f6357c,Protective Relay Testing and Repair,294,225"
-"df72e9f4-9cd2-47d2-9019-65775cbb3b38,Fuse Box Inspection and Component Replacement,361,287"
-"1e8a64cc-5254-487a-843c-b2e0c04d788f,Disconnect Switch Servicing and Repair,148,29"
-"a3ecfa3e-cb4f-4ee0-9832-8e5c7b998340,Recloser Maintenance and Repair,182,33"
-"961abfb1-4174-436e-bd8f-3e362f628dde,Voltage Regulator Adjustment and Repair,434,338"
-"b958867e-f39e-4005-8d7f-98db1f705c6b,Ring Main Unit Inspection and Repair,53,102"
-"75846928-fdf9-4f4a-b9b5-a687713b8021,Overhead Line Sag Correction and Repair,443,251"
-"f4adbc36-0f9f-43d5-870d-765d7d23df83,Power Pole Structural Repair and Replacement,353,49"
-"817c851a-5ecd-4c1a-bebf-b54aebbca03a,Surge Arrester Inspection and Repair,277,123"
-"7cd9da35-e92a-4de2-b94d-57689716a5df,Load Break Switch Maintenance and Repair,272,322"
-"592c47ca-d927-4a18-8f34-6e9211f47328,Sectionalizer Component Repair and Replacement,317,50"
-"e41538ba-7fae-4186-b8c0-927e2f9eb298,Busbar Cleaning and Repair,216,216"
-"7215c072-103f-4be2-a21e-75ff47d4826e,Current Transformer Testing and Repair,54,191"
-"657896bc-2afc-41b8-9d27-de91ab599ff6,Potential Transformer Calibration and Repair,66,99"
-"2d54edaf-fd65-4e34-b4b7-298baa1eeea4,Earth Leakage Circuit Breaker Inspection and Repair,459,226"
-"40303fb6-3512-43b7-9f92-b92a9524b0fd,Residual-Current Device Testing and Repair,404,70"
-"68cfb54d-2fa1-4148-9fed-f63b05ed5356,Gas Insulated Switchgear Maintenance and Repair,132,216"
-"7143129f-31c4-498d-8469-3d7cc0e8224e,Air Break Switch Servicing and Repair,372,31"
-"c23fed9f-4429-4c3e-a5ae-2a7fb721e02d,Oil Circuit Breaker Inspection and Repair,69,164"
-"e11a133d-be96-4bbf-afef-248bc4aa322d,Vacuum Circuit Breaker Maintenance and Repair,235,296"
-"eafade0a-59a0-4d94-b33b-2d07ab62ead3,SF6 Circuit Breaker Leak Detection and Repair,412,318"
-"f6b08af0-f0d2-4a77-8b92-bd25c5fa1eb5,Air Blast Circuit Breaker Overhaul and Repair,435,262"
-"2de60566-0e1a-400f-95b0-46ab63405ac4,Miniature Circuit Breaker Inspection and Repair,426,289"
-"b3a2bf22-3c8d-470d-aa86-6ce5fb0e085c,Molded Case Circuit Breaker Component Replacement,470,67"
-"8f7e2c3c-7390-4857-bda4-6c301e3c1e3b,Earth Switch Maintenance and Repair,417,19"
-"7ee79203-00f9-4e77-a069-3a952b38d894,Neutral Grounding Resistor Inspection and Repair,314,116"
-"a6ddd4d7-5579-4de1-82af-9c0c7f3e0e79,Isolator Servicing and Repair,495,156"
-"f2468fa9-e36f-4827-be70-54080fb32421,Power Converter Component Repair and Replacement,202,228"
-"c326b2a0-863c-4aa2-90ef-5d7bfae44a97,Static Var Compensator Calibration and Repair,409,35"
-"84fd54eb-c45d-490b-9db4-7a0d033a5515,Synchronous Condenser Overhaul and Repair,454,114"
-"268b7d4b-8042-4f29-9d36-81da010c31e8,Phase Shifting Transformer Maintenance and Repair,315,59"
-"1a3a1996-4da2-4c95-a173-a4ca29da32fc,Power Factor Correction Panel Inspection and Repair,78,254"
-"5e0dc38e-28a1-4f11-b100-ca006f41a92d,Harmonic Filter Cleaning and Repair,477,224"
-"f82107c7-8f9e-4142-8d2d-49bd73021b03,Power Quality Analyzer Calibration and Repair,180,286"
-"e0fb2df5-29e4-4d11-b69a-f403b818791d,Wave Trap Inspection and Repair,215,288"
-"7c143417-ee71-4f6d-bf16-02a28f813509,Cable Jointing and Termination Repair,484,124"
-"f100d1ad-7adf-4758-ac65-f934fb82a3e9,Lightning Arrester Inspection and Repair,93,306"
-"e9467fe6-ff6b-4449-b0fc-ef8108fdf3b2,Control Panel Wiring and Repair,339,65"
-"d5746e83-f405-42d8-9d1b-d817e98e60f1,Thermographic Inspection and Repair of Electrical Equipment,331,282"
+repair_id,repair_name,repair_value,time_in_minutes
+1cd3798e-a096-4e11-a323-595f34938785,Transformer Oil Leak Repair,325,139
+f3f2c2e7-3179-4a35-8259-20681e22103a,Circuit Breaker Maintenance and Repair,197,184
+4a99ff3d-48bc-4974-9ed2-cb0ba51ecd4d,Power Line Insulation Restoration,306,219
+d171d4ec-f08f-4dd7-bc81-a02584ef95e4,Distribution Substation Equipment Overhaul,182,85
+ef266ca2-4991-4942-b7b3-61827a0f12fb,Transmission Tower Structural Repair,247,23
+601b1e49-2320-44ce-bd01-5e0af276ddae,Electrical Conduit Replacement and Repair,276,96
+58fc98ea-1582-4f77-bef1-a2bd456af621,Ceramic Insulator Repair and Replacement,498,308
+676615ef-5117-4b59-ad1a-90ce862e6189,Underground Power Cable Fault Detection and Repair,115,120
+3779c9b9-51e0-4374-84eb-cb17ed242aea,Switchgear Component Repair and Replacement,360,42
+4910bb06-f5db-408e-8fb3-022d8b6280ef,Capacitor Bank Balancing and Maintenance,496,303
+83c9d531-b5c9-472a-be00-255ec55eccdd,Electric Meter Calibration and Repair,500,155
+5aa4f537-c928-4797-a614-f9b1a2f6357c,Protective Relay Testing and Repair,294,225
+df72e9f4-9cd2-47d2-9019-65775cbb3b38,Fuse Box Inspection and Component Replacement,361,287
+1e8a64cc-5254-487a-843c-b2e0c04d788f,Disconnect Switch Servicing and Repair,148,29
+a3ecfa3e-cb4f-4ee0-9832-8e5c7b998340,Recloser Maintenance and Repair,182,33
+961abfb1-4174-436e-bd8f-3e362f628dde,Voltage Regulator Adjustment and Repair,434,338
+b958867e-f39e-4005-8d7f-98db1f705c6b,Ring Main Unit Inspection and Repair,53,102
+75846928-fdf9-4f4a-b9b5-a687713b8021,Overhead Line Sag Correction and Repair,443,251
+f4adbc36-0f9f-43d5-870d-765d7d23df83,Power Pole Structural Repair and Replacement,353,49
+817c851a-5ecd-4c1a-bebf-b54aebbca03a,Surge Arrester Inspection and Repair,277,123
+7cd9da35-e92a-4de2-b94d-57689716a5df,Load Break Switch Maintenance and Repair,272,322
+592c47ca-d927-4a18-8f34-6e9211f47328,Sectionalizer Component Repair and Replacement,317,50
+e41538ba-7fae-4186-b8c0-927e2f9eb298,Busbar Cleaning and Repair,216,216
+7215c072-103f-4be2-a21e-75ff47d4826e,Current Transformer Testing and Repair,54,191
+657896bc-2afc-41b8-9d27-de91ab599ff6,Potential Transformer Calibration and Repair,66,99
+2d54edaf-fd65-4e34-b4b7-298baa1eeea4,Earth Leakage Circuit Breaker Inspection and Repair,459,226
+40303fb6-3512-43b7-9f92-b92a9524b0fd,Residual-Current Device Testing and Repair,404,70
+68cfb54d-2fa1-4148-9fed-f63b05ed5356,Gas Insulated Switchgear Maintenance and Repair,132,216
+7143129f-31c4-498d-8469-3d7cc0e8224e,Air Break Switch Servicing and Repair,372,31
+c23fed9f-4429-4c3e-a5ae-2a7fb721e02d,Oil Circuit Breaker Inspection and Repair,69,164
+e11a133d-be96-4bbf-afef-248bc4aa322d,Vacuum Circuit Breaker Maintenance and Repair,235,296
+eafade0a-59a0-4d94-b33b-2d07ab62ead3,SF6 Circuit Breaker Leak Detection and Repair,412,318
+f6b08af0-f0d2-4a77-8b92-bd25c5fa1eb5,Air Blast Circuit Breaker Overhaul and Repair,435,262
+2de60566-0e1a-400f-95b0-46ab63405ac4,Miniature Circuit Breaker Inspection and Repair,426,289
+b3a2bf22-3c8d-470d-aa86-6ce5fb0e085c,Molded Case Circuit Breaker Component Replacement,470,67
+8f7e2c3c-7390-4857-bda4-6c301e3c1e3b,Earth Switch Maintenance and Repair,417,19
+7ee79203-00f9-4e77-a069-3a952b38d894,Neutral Grounding Resistor Inspection and Repair,314,116
+a6ddd4d7-5579-4de1-82af-9c0c7f3e0e79,Isolator Servicing and Repair,495,156
+f2468fa9-e36f-4827-be70-54080fb32421,Power Converter Component Repair and Replacement,202,228
+c326b2a0-863c-4aa2-90ef-5d7bfae44a97,Static Var Compensator Calibration and Repair,409,35
+84fd54eb-c45d-490b-9db4-7a0d033a5515,Synchronous Condenser Overhaul and Repair,454,114
+268b7d4b-8042-4f29-9d36-81da010c31e8,Phase Shifting Transformer Maintenance and Repair,315,59
+1a3a1996-4da2-4c95-a173-a4ca29da32fc,Power Factor Correction Panel Inspection and Repair,78,254
+5e0dc38e-28a1-4f11-b100-ca006f41a92d,Harmonic Filter Cleaning and Repair,477,224
+f82107c7-8f9e-4142-8d2d-49bd73021b03,Power Quality Analyzer Calibration and Repair,180,286
+e0fb2df5-29e4-4d11-b69a-f403b818791d,Wave Trap Inspection and Repair,215,288
+7c143417-ee71-4f6d-bf16-02a28f813509,Cable Jointing and Termination Repair,484,124
+f100d1ad-7adf-4758-ac65-f934fb82a3e9,Lightning Arrester Inspection and Repair,93,306
+e9467fe6-ff6b-4449-b0fc-ef8108fdf3b2,Control Panel Wiring and Repair,339,65
+d5746e83-f405-42d8-9d1b-d817e98e60f1,Thermographic Inspection and Repair of Electrical Equipment,331,282
