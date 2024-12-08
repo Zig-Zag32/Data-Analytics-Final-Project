@@ -1,4 +1,4 @@
-repair_id,repair_name,repair_value,time_in_minutes
+repair_type_id,repair_name,repair_value,time_in_minutes
 1cd3798e-a096-4e11-a323-595f34938785,Transformer Oil Leak Repair,325,139
 f3f2c2e7-3179-4a35-8259-20681e22103a,Circuit Breaker Maintenance and Repair,197,184
 4a99ff3d-48bc-4974-9ed2-cb0ba51ecd4d,Power Line Insulation Restoration,306,219
